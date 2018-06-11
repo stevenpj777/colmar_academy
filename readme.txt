@@ -1,0 +1,1 @@
+This is the final Capstone project for the 10-week Codecademy course entitled "Build Websites from Scratch"
